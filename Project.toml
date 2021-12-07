@@ -1,0 +1,7 @@
+name = "FluxUtils"
+uuid = "1f045c7f-965d-454a-8c3f-b8190bc4f452"
+authors = ["Valentin Churavy <v.churavy@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+FluxRM = "e7b9fac9-e441-4388-a71b-956020f2d1a2"
